@@ -1,4 +1,4 @@
-# Sales Forecasting for Rossmann Stores
+# Sales Forecasting using Time Series Analysis
 
 This project focuses on forecasting sales for the Rossmann chain of stores with a prediction horizon of 3 weeks into the future. The project involves performing necessary preprocessing, extracting valuable business insights from past historical data, and applying various time series modeling techniques to achieve accurate sales forecasts.
 
